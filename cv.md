@@ -1,5 +1,5 @@
 # Veronika Pakeleva 
-![ Veronika Pakeleva](/RSSCHOOL-CV/img/photo.jpg "Veronika Pakeleva") .
+![ Veronika Pakeleva](photo.jpg "Veronika Pakeleva") .
 ## Contact information:
 * Address: Saint-Petersburg, Russia
 * Phone number: +7(921)88-60-557
