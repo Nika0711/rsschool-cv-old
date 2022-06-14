@@ -93,6 +93,9 @@ background-size: contain;
     color:white;
   }
   /* main */
+  .section-item{
+      text-decoration: none;
+  }
   .section-item a {
     color: #829985;
     text-decoration: none;  
@@ -108,13 +111,9 @@ background-size: contain;
   
   .section {
     width: 50%;
-  }
-  .section-title {
-    font-size: 20px;
-    font-weight: 400;
-    text-transform: uppercase;
-    letter-spacing: 5px;
-    color: #829985;
+    border-bottom: 3px solid rgb(200, 160, 200); 
+    padding-bottom: 20px;
+    margin-bottom: 50px;
   }
   .section-title {
     font-size: 22px;
@@ -127,8 +126,10 @@ background-size: contain;
       display: flex;
       flex-direction: row;
       justify-content: space-between;
+      margin-bottom: 50px;
+    border-bottom: 10px solid rgb(207, 175, 207);
   }
-  h1.section-title{
+   h1.section-title{
       font-size: 22px;
       color:#21812e;
       font-weight:700;
@@ -143,4 +144,8 @@ background-size: contain;
       color: #196123b3;;
       line-height: 30px;
       text-align:center;
+  }
+  .contact-info{
+      color: #196123b3;
+      text-decoration: none;
   }
