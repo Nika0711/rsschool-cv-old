@@ -123,16 +123,24 @@ background-size: contain;
     letter-spacing: 5px;
     color: #21812e;
   }
-  section.profile-section{
-      display:flex;
+   #profile{
+      display: flex;
+      flex-direction: row;
       justify-content: space-between;
   }
   h1.section-title{
       font-size: 22px;
       color:#21812e;
       font-weight:700;
-      font-style: bold;
       line-height:20px;
-      text-align:right;
-      text-decoration: underline rgb(33, 66, 33);
+      text-decoration: underline #21812e;
+      padding-top:50px;
+      margin-bottom: 50px;
+  }
+ 
+  .sub-title{
+      font-size: 18px;
+      color: #196123b3;;
+      line-height: 30px;
+      text-align:center;
   }
