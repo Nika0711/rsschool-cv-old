@@ -22,3 +22,12 @@ body{
     box-sizing:border-box;
     outline:none;
 }
+.header{
+    border: solid 1 px red;
+}
+.main{
+    border: solid 1 px blue;
+}
+.footer{
+    border: solid 1 px green;
+}
