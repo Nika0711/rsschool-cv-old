@@ -49,12 +49,16 @@ body{
     background-image: url(./assets/img/photo.jpg);
     background-size:contain;
     background-repeat: no-repeat;
+    margin-top:30px;
     margin-left: 30px;
     border-width: 10px;
 
 }
 .main{
-    border: solid 1px blue;
+background-image: url(./assets/img/background.jpg);
+background-repeat: no-repeat;
+background-size: contain;
+
  
 }
 .footer{
@@ -97,11 +101,9 @@ body{
   .section-item a:hover {
     color: #4d2323;
   }
-  .main-container {
+  .main-container{
     display: flex;
     flex-wrap: wrap;
-    background-image:url(./assets/img/background.jpg);
-    background-size: cover; 
   }
   
   .section {
@@ -121,7 +123,7 @@ body{
     letter-spacing: 5px;
     color: #21812e;
   }
-  .profile-section{
+  section.profile-section{
       display:flex;
       justify-content: space-between;
   }
@@ -130,7 +132,7 @@ body{
       color:#21812e;
       font-weight:700;
       font-style: bold;
-      text-align: end;
-      margin-top: 50px;
-      text-decoration: underline;
+      line-height:20px;
+      text-align:right;
+      text-decoration: underline rgb(33, 66, 33);
   }
