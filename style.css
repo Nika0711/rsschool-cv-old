@@ -37,7 +37,7 @@ body{
     box-sizing:border-box;
     outline:none;
 }
-.header{
+.header, .footer{
     background-color:#4D5B4D;
     font-size: 18px;
     font-weight: 400;
@@ -61,9 +61,6 @@ background-size: contain;
 
  
 }
-.footer{
-    border: solid 1px green;
-}
 .container {
     max-width: 1440px;
     margin: 0 auto;
@@ -72,6 +69,7 @@ background-size: contain;
     text-decoration: none;
     color: white;
     transition: color 0.5s;
+    cursor: pointer;
   }
   
   .link:hover {
@@ -169,4 +167,25 @@ background-size: contain;
 }
 .contact-item{
   list-style-type: none;
+}
+.footer.container{
+  display:flex;
+  justify-content: space-between;
+}
+.footer-info {
+  font-size: 18px;
+  padding: 0 30px 0px 30px ;
+  line-height: 50px;
+  color:white;
+}
+.logo-container{
+  width: 100px;
+  background: url(./assets/svg/rs_school_js.svg);
+  background-repeat: no-repeat;
+  background-size:contain;
+
+}
+.footer{
+  display:flex;
+  justify-content: space-between;
 }
