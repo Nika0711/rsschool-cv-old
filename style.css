@@ -175,17 +175,12 @@ background-size: contain;
   color:white;
 }
 
-.footer{
-  display:flex;
-  justify-content: space-between;
-}
-.footer.container{
+footer.container{
   display:flex;
   justify-content: space-between;
 }
 .footer-logo{
-  width:100px;
- 
+  width:100px; 
 }
 .footer-logo:hover{
   cursor:pointer;
