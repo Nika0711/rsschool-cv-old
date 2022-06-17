@@ -107,7 +107,6 @@ background-size: contain;
   
   .section {
     width: 50%;
-    border-bottom: 3px solid rgb(200, 160, 200); 
     padding-bottom: 20px;
     margin-bottom: 50px;
   }
@@ -190,4 +189,14 @@ background-size: contain;
 }
 .footer-logo:hover{
   cursor:pointer;
+}
+.wrap{
+  display:flex;
+  flex-wrap: wrap;
+}
+.underline{
+  margin-top: 30px;
+  width:700px;
+  height: 3px;
+  background-color:#c8a0c8;
 }
