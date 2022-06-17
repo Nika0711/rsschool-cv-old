@@ -142,7 +142,7 @@ background-size: contain;
       text-align:center;
   }
   .info{
-      color: #196123b3;
+      color: #19411fb3;
       text-decoration: none;
       margin-left: 10px;
   }
@@ -194,4 +194,7 @@ background-size: contain;
   width:700px;
   height: 5px;
   background-color:#c8a0c8;
+}
+i{
+  color:#cfafcf;
 }
