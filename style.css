@@ -175,7 +175,7 @@ background-size: contain;
   color:white;
 }
 
-footer.container{
+.footer-container{
   display:flex;
   justify-content: space-between;
 }
@@ -192,6 +192,6 @@ footer.container{
 .underline{
   margin-top: 30px;
   width:700px;
-  height: 3px;
+  height: 5px;
   background-color:#c8a0c8;
 }
