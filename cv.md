@@ -1,8 +1,9 @@
 # Veronika Pakeleva 
 ![ Veronika Pakeleva](/img/photo.jpg "Veronika Pakeleva") .
 ## Contact information:
-* Address: Saint-Petersburg, Russia
+* Address: Saint-Petersburg, Russia/ Belarus, Minsk
 * Phone number: +7(921)88-60-557
+* Phone number: +375(29)134-95-93
 * [Email](veronika.pakeleva@gmail.com): veronika.pakeleva@gmail.com
 * [Github]( https://nika0711.github.io/rsschool-cv/): Nika0711 
 * [Telegram](https://t.me/vero711nika): vero711nika
@@ -18,13 +19,16 @@ In my free time I'm keen on cycling, reading English books, watching films, swim
 * English training (IT English)
 * Business Analysis (beginner)
 ## Education:
+
 1. Bachelor, Minsk State Linguistic University, Minsk, English Faculty - **linguist, teacher of English and German**;
 2. Bachelor, Belarusian State Economic Univeristy, Minsk - **economist-manager**;
 3. IH English school, **CELTA A certificate**
 4. EPAM Lab- basic knowledge of business analysis
 ## Experience:
+
 * *Streamline language school*: 2007-2012
 * *EPAM Russia*: 2016-2022
+* *EPAM Belarus*: 2022- current
 
 ## Code example:
 ```<div style="background: url(ball3.png) right top no-repeat, 
