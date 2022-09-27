@@ -6,21 +6,22 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
     <link rel="icon" href="./assets/rs_school.ico">
-    <title>CV HTML</title>
+    <script src="https://kit.fontawesome.com/2293f14872.js" crossorigin="anonymous"></script>
+    <title>CV HTML_Veronika Pakeleva</title>
 </head>
 <body>
 <header class="header">
 <div class="container">
     <nav class="nav">
         <ul class="nav-list">
-          <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
-          <li class="nav-item"><a href="#summary" class="nav-link">Summary</a></li>
-          <li class="nav-item"><a href="#skills" class="nav-link">Skills</a></li>
-          <li class="nav-item"><a href="#code" class="nav-link">Code</a></li>
-          <li class="nav-item"><a href="#courses" class="nav-link">Courses</a></li>
-          <li class="nav-item"><a href="#projects" class="nav-link">Projects</a></li>
-          <li class="nav-item"><a href="#education" class="nav-link">Education</a></li>
-          <li class="nav-item"><a href="#languages" class="nav-link">Languages</a></li>
+          <li class="nav-item"><a href="#contacts" class="nav-link link">Contacts</a></li>
+          <li class="nav-item"><a href="#summary" class="nav-link link">Summary</a></li>
+          <li class="nav-item"><a href="#skills" class="nav-link link">Skills</a></li>
+          <li class="nav-item"><a href="#code" class="nav-link link">Code</a></li>
+          <li class="nav-item"><a href="#courses" class="nav-link link">Courses</a></li>
+          <li class="nav-item"><a href="#projects" class="nav-link link">Projects</a></li>
+          <li class="nav-item"><a href="#education" class="nav-link link">Education</a></li>
+          <li class="nav-item"><a href="#languages" class="nav-link link">Languages</a></li>
         </ul>
       </nav>
 </div>
@@ -28,30 +29,35 @@
 
 
 <main class="main">
-    <div class="container main-container">
-        <section class="section"  id="profile">
-            <div class="img-container"></div>  
+    <div class="container">
+        <section class="section" id="profile">
+            <div class="img-container">
+                <img class="photo" src="./assets/img/photo.jpg" alt="photo">
+            </div>  
             <div class="names">
                 <h1 class="section-title">Veronika Pakeleva</h1>  
                 <h3 class="sub-title">Junior Front-End Developer</h3> 
-            </div>         
+            </div> 
         </section>
 
-
+        <div class="wrap"> 
         <section class="section" id="contacts">
             <h2 class="section-title contacts">Contacts</h2>
-            <ul>
-                <li class="contact-item">Minsk, Belarus</li>
-                <li class="contact-item">Gmail: <span class="info">veronika.pakeleva@gmail.com</span></li>
-                <li class="contact-item">Github: <span class="info">Nika0711</span></li>
-                <li class="contact-item">Telegram:<span class="info">@vero711nika</span></li>
-                <li class="contact-item">Discord:<span class="info">Veronika Pakeleva#4779</span></li>
+            <ul class="contact-items">
+                <li class="contact-item"> <i class="fa-solid fa-location-dot"></i> Minsk, Belarus</li>  
+                <li class="contact-item"> <i class="fa-solid fa-at"></i> Gmail: <span class="info">veronika.pakeleva@gmail.com</span></li>
+                <li class="contact-item"> <i class="fa-brands fa-github"></i> Github: <span class="info">Nika0711</span></li>
+                <li class="contact-item"> <i class="fa-brands fa-telegram"></i> Telegram:<span class="info">@vero711nika</span></li> 
+                <li class="contact-item"> <i class="fa-brands fa-discord"></i> Discord:<span class="info">Veronika Pakeleva#4779</span></li>
             </ul>
+            <hr class="underline">
         </section>
+        
         <section class="section" id="summary">
             <h2 class="section-title">Summary</h2>
             <p>I’ve been working  in Epam as language instructor for the last 5 years. Over this time I've been dreaming about entering 'The World of IT'. So I've decided to take up this challenge and take several courses to get necessary skills and knowledge. I find programming quite fascinating and challenging. So I'm doing my best to become a Junior Java Developer in some not distant future.
             </p>
+            <hr class="underline">
         </section>
 
 
@@ -64,6 +70,7 @@
              <li class="section-item">Graphics:<span class="info">Figma</span></li>
              <li class="section-item">Other:<span class="info">Language training and course development</span></li>
             </ul>
+            <hr class="underline">
         </section>
 
         
@@ -72,26 +79,28 @@
             <pre class="section-code">
                 function randomDiap(n,m) {
                     return Math.floor(
-                    Math.random()*(m-n+1)
-                    )+n;
+                    Math.random()*(m-n+1))+n;
                     }
             </pre>
+            <hr class="underline">
         </section>
 
 
         <section class="section" id="courses">
             <h2 class="section-title">Courses</h2>
             <ul>
-                <li class="section-item">IT-Academy: <span class="info">HTML,CSS,JS basics_stage1</span></li>
+                <li class="section-item">IT-Academy: <span class="info">HTML, CSS, JS basics_stage1</span></li>
                 <li class="section-item">IT-Academy: <span class="info">JavaScript_stage2</span></li>
             </ul>
+            <hr class="underline">
         </section>
         <section class="section" id="projects">
             <h2 class="section-title">Projects</h2>
             <ul>
-                <li class="section-item" ><a href="https://github.com/Nika0711/IT-Academy/blob/d0f334534d8e99f88b59fc22d2f170e7e5fcfd10/Lesson7/MAKET_elki/index.html"> Christmas Trees_website</a></li>
-                <li class="section-item" ><a href= "https://www.github.com/Nika0711/IT-Academy/blob/d0f334534d8e99f88b59fc22d2f170e7e5fcfd10/Final%20Maket_Jewellery/main.html"> Jewellery_website</a></li>
+                <li class="section-item" ><a href="https://nika0711.github.io/IT-Academy/Lesson7/MAKET_elki/index.html"> Christmas Trees_website</a></li>
+                <li class="section-item" ><a href= "https://nika0711.github.io/IT-Academy/Final%20Maket_Jewellery/main.html"> Jewellery_website</a></li>
             </ul>
+            <hr class="underline">
         </section>
         <section class="section" id="education">
             <h2 class="section-title">Education</h2>
@@ -99,26 +108,33 @@
                 <li class="section-item">Minsk State Linguistic University: <span class="info">linguist, teacher of English and German</span></li>
                 <li class="section-item">Belarusian State Economic University: <span class="info">economist-manager</span></li>
             </ul>
+            <hr class="underline">
         </section>
         <section class="section" id="languages">
             <h2 class="section-title">Languages</h2>
             <ul>
                 <li class="section-item">English: <span class="info">C2</span> </li>
-                <li class="section-item">Russian:<span class="info">native</span></li>
-                <li class="section-item">Belarusian: <span class="info">native</span></li>    
+                <li class="section-item">Russian, Belarusian:<span class="info">native</span></li>  
             </ul>
+            <hr class="underline">
         </section>
+    </div> 
     </div>
 
 
 </main>
 <footer class="footer">
-    <div class="container"></div>
+    <div class="container footer-container">
      <p class="footer-info">
-         <span>&#169;2022</span>
+         <span>&#169;2022</span> 
          <span>Nika0711</span>
     </p>
-    <div class="logo-container"><img src="./assets/svg/rs_school_js.svg" alt="icon"></div>
+    <div class="logo-container">
+        <a href="https://rs.school/js/">
+            <img class="footer-logo" src="./assets/svg/rs_school_js.svg" alt="rsschool_logo">
+        </a>
+    </div> 
+    </div>   
 </footer>
     
  
