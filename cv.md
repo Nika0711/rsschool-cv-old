@@ -18,11 +18,13 @@ In my free time I'm keen on cycling, reading English books, watching films, swim
 * English training (IT English)
 * Business Analysis (beginner)
 ## Education:
+
 1. Bachelor, Minsk State Linguistic University, Minsk, English Faculty - **linguist, teacher of English and German**;
 2. Bachelor, Belarusian State Economic Univeristy, Minsk - **economist-manager**;
 3. IH English school, **CELTA A certificate**
 4. EPAM Lab- basic knowledge of business analysis
 ## Experience:
+
 * *Streamline language school*: 2007-2012
 * *EPAM Russia*: 2016-2022
 
