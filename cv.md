@@ -28,7 +28,7 @@ In my free time I'm keen on cycling, reading English books, watching films, swim
 
 * *Streamline language school*: 2007-2012
 * *EPAM Russia*: 2016-2022
-* *EPAM Belarus*: 2022- 
+* *EPAM Belarus*: 2022- current
 
 ## Code example:
 ```<div style="background: url(ball3.png) right top no-repeat, 
