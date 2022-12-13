@@ -24,6 +24,8 @@ In my free time I'm keen on cycling, reading English books, watching films, swim
 2. Bachelor, Belarusian State Economic Univeristy, Minsk - **economist-manager**;
 3. IH English school, **CELTA A certificate**
 4. EPAM Lab- basic knowledge of business analysis
+5. RSS School
+
 ## Experience:
 
 * *Streamline language school*: 2007-2012
