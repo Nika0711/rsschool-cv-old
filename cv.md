@@ -1,5 +1,5 @@
 # Veronika Pakeleva 
-![ Veronika Pakeleva](/img/photo.jpg "Veronika Pakeleva") .
+
 ## Contact information:
 * Address: Saint-Petersburg, Russia/ Belarus, Minsk
 * Phone number: +7(921)88-60-557
